@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Wappo\ModelApi\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ModelApiCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-model-api';
 
     public $description = 'My command';
 
